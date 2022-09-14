@@ -27,3 +27,5 @@ function productDisplay(product) {
 	`;
 	return display;
 }
+
+
